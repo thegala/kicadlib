@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM27313XMF
+D Setup converter with 30V FET
+F http://www.tme.eu/hr/Document/6f61691a18081db901d556249e575449/LM27313XMF-NOPB.pdf
+$ENDCMP
+#
+$CMP STGW39NC60VD
+D Transistor N-IGBT (general)
+K igbt n-igbt transistor
+$ENDCMP
+#
+#End Doc Library

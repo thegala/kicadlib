@@ -1,0 +1,9 @@
+*.dat
+*.bak
+*-bak
+_saved*
+_autosave*
+*cache.lib
+*.sdb
+
+
